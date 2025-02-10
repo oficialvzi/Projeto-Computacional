@@ -2,12 +2,12 @@
 Projeto final de CPE - Cassino Little Tiger
 
 ## Integrantes
-Arthur Choi Braga - 242014300
-Matheus Cunha de Freitas - 242014355
-Beatriz Aguiar de Almeida - 242014319
-Felipe Hiohan de Jesus Silva - 242014391
-Larissa Julie Ferreira Lima - 242014426
-Maria Paula Vieira Ferreira - 242014382
+Arthur Choi Braga - 242014300 <br />
+Matheus Cunha de Freitas - 242014355 <br />
+Beatriz Aguiar de Almeida - 242014319 <br />
+Felipe Hiohan de Jesus Silva - 242014391 <br />
+Larissa Julie Ferreira Lima - 242014426 <br />
+Maria Paula Vieira Ferreira - 242014382 <br />
 
 
 ## Descrição do projeto
