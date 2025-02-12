@@ -249,4 +249,4 @@ O jogo aborda os seguintes temas: manipulação de entrada e saídas, estrutura 
 
 [Slides da apresentação](https://www.canva.com/design/DAGe5euFBUM/huXEXbWrD-5E15IOic7qDg/view?utm_content=DAGe5euFBUM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h388583f362)
 
-[Vídeo de apresentação do projeto]
+[Vídeo de apresentação do projeto](https://youtu.be/mTbzoFQrUCg)
